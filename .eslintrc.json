@@ -1,18 +1,18 @@
 {
     "extends": "next/core-web-vitals",
-    // "parser": "@typescript-eslint/parser"
-    // "rules": {
-    //     "semi": [
-    //         "error",
-    //         "never"
-    //     ],
-    //     "indent": [
-    //         "error",
-    //         4
-    //     ],
-    //     "quotes": [
-    //         "error",
-    //         "double"
-    //     ]
-    // }
+    "parser": "@typescript-eslint/parser",
+    "rules": {
+        "semi": [
+            "error",
+            "never"
+        ],
+        "indent": [
+            "error",
+            4
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ]
+    }
 }
